@@ -1,13 +1,1 @@
----
-title: "HelloWorld"
-author: "Andrea Belleville"
-date: "5/16/2020"
-output: pdf_document
-keep_md: TRUE
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## This is a markdown file
